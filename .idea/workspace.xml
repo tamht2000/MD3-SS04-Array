@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23d57227-33db-46d1-8499-21c8ca011af0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session04-Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/TH1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/TH2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/TH3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/TH4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/TH5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/Th6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/bt1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/bt2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/bt3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/bt4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/bt5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/bt6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/bt7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/bt8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/bt9/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2VbBa8GqZbe85WGJobnaceIgRPi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DELL/IdeaProjects/Session04-Array/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.ra.bt5.Main">
+    <configuration name="ra.bt1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ra.bt1.Main" />
+      <module name="Session04-Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ra.bt1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ra.bt2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ra.bt2.Main" />
+      <module name="Session04-Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ra.bt2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ra.bt3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ra.bt3.Main" />
+      <module name="Session04-Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ra.bt3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ra.bt4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ra.bt4.Main" />
+      <module name="Session04-Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ra.bt4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ra.bt5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ra.bt5.Main" />
+      <module name="Session04-Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ra.bt5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ra.bt5.Main" />
+        <item itemvalue="Application.ra.bt4.Main" />
+        <item itemvalue="Application.ra.bt3.Main" />
+        <item itemvalue="Application.ra.bt2.Main" />
+        <item itemvalue="Application.ra.bt1.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23d57227-33db-46d1-8499-21c8ca011af0" name="Changes" comment="" />
+      <created>1695094959532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695094959532</updated>
+      <workItem from="1695094960574" duration="11932000" />
+      <workItem from="1695144520654" duration="513000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
